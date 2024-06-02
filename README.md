@@ -67,4 +67,3 @@ cd Dickeys-Account-Checker
 *4. Run `go run setup.go`*
 
 *5. Run `go run main.go`*
-```
